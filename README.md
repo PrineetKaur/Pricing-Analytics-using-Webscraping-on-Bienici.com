@@ -1,2 +1,2 @@
-# Webscraping-Project-on-Bienici.com
+# WebScraping-Project-on-Bienici.com
 Project on Python
